@@ -1,4 +1,4 @@
-# Suicide Detection & Prevention
+# Mental Health Support App
 This site is built using React to provide a quick and simple platform for suicide prevention and mental health promotion.<hr/>
 
 # Preview:
